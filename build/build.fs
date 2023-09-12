@@ -104,7 +104,7 @@ let watchDocsDir =
 let gitOwner = "nikoyak"
 let gitRepoName = "FSharp.Serilog"
 
-let gitHubRepoUrl = sprintf "https://github.com/%s/%s/" gitOwner gitRepoName
+let gitHubRepoUrl = sprintf "https://github.com/%s/%s" gitOwner gitRepoName
 
 let documentationUrl = sprintf "https://%s.github.io/%s/" gitOwner gitRepoName
 
