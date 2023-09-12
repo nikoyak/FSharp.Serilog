@@ -4,20 +4,20 @@ open System.Reflection
 
 [<assembly: AssemblyTitleAttribute("FSharp.Serilog")>]
 [<assembly: AssemblyProductAttribute("FSharp.Serilog")>]
-[<assembly: AssemblyVersionAttribute("1.0.0")>]
-[<assembly: AssemblyMetadataAttribute("ReleaseDate","2023-09-12T00:00:00.0000000+03:00")>]
-[<assembly: AssemblyFileVersionAttribute("1.0.0")>]
-[<assembly: AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: AssemblyVersionAttribute("1.0.1")>]
+[<assembly: AssemblyMetadataAttribute("ReleaseDate","2023-09-13T00:00:00.0000000+03:00")>]
+[<assembly: AssemblyFileVersionAttribute("1.0.1")>]
+[<assembly: AssemblyInformationalVersionAttribute("1.0.1")>]
 [<assembly: AssemblyMetadataAttribute("ReleaseChannel","release")>]
-[<assembly: AssemblyMetadataAttribute("GitHash","1e9752f7e8f80474df1a1e4c406e422327c19543")>]
+[<assembly: AssemblyMetadataAttribute("GitHash","b0e5bfbd34e189cf8bb19de9e45b00d4495f04d8")>]
 do ()
 
 module internal AssemblyVersionInformation =
     let [<Literal>] AssemblyTitle = "FSharp.Serilog"
     let [<Literal>] AssemblyProduct = "FSharp.Serilog"
-    let [<Literal>] AssemblyVersion = "1.0.0"
-    let [<Literal>] AssemblyMetadata_ReleaseDate = "2023-09-12T00:00:00.0000000+03:00"
-    let [<Literal>] AssemblyFileVersion = "1.0.0"
-    let [<Literal>] AssemblyInformationalVersion = "1.0.0"
+    let [<Literal>] AssemblyVersion = "1.0.1"
+    let [<Literal>] AssemblyMetadata_ReleaseDate = "2023-09-13T00:00:00.0000000+03:00"
+    let [<Literal>] AssemblyFileVersion = "1.0.1"
+    let [<Literal>] AssemblyInformationalVersion = "1.0.1"
     let [<Literal>] AssemblyMetadata_ReleaseChannel = "release"
-    let [<Literal>] AssemblyMetadata_GitHash = "1e9752f7e8f80474df1a1e4c406e422327c19543"
+    let [<Literal>] AssemblyMetadata_GitHash = "b0e5bfbd34e189cf8bb19de9e45b00d4495f04d8"
