@@ -1,0 +1,8 @@
+{
+    "FSharp.fsacRuntime":"netcore",
+    "FSharp.enableAnalyzers": false,
+    "FSharp.analyzersPath": [
+        "./packages/analyzers"
+    ],
+    "editor.inlayHints.enabled": "offUnlessPressed"
+}
