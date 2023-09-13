@@ -5,7 +5,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <Title>FSharp.Serilog</Title>
-    <Description>FSharp.Serilog does the thing!</Description>
+    <Description>Contains some helpers for working with Serilog in F#</Description>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)'=='Release'">
     <Optimize>true</Optimize>
